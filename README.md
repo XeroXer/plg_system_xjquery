@@ -1,4 +1,5 @@
-plg_xjquery
+plg_system_xjquery
+System - XjQuery
 ===========
 
-Joomla 1.6.x-2.5.x plugin for including jQuery.
+Joomla 2.5.x plugin for including jQuery.
