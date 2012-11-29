@@ -119,9 +119,12 @@ a:hover, a:focus, a:active {
     padding: 0 10px;
     margin: 0 auto;
 }
-ul.social-icons {
+ul.version-table, ul.social-icons {
     list-style: none;
     padding: 0;
+}
+ul.version-table span {
+    font-weight: bold;
 }
 ul.social-icons li {
     margin-bottom: 20px;
