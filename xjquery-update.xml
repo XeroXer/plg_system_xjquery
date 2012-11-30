@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>System - XjQuery</name>
+        <description>Joomla 2.5.x plugin for including jQuery.</description>
+        <element>plg_system_xjquery</element>
+        <type>plugin</type>
+        <version>0.0.1</version>
+        <infourl title="HalloWorld URL">http://yourdomain.com</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/XeroXer/plg_system_xjquery/archive/0.0.1.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>GitHub</tag>
+        </tags>
+        <maintainer>GitHub</maintainer>
+        <maintainerurl>https://github.com/</maintainerurl>
+        <section>XeroXer/plg_system_xjquery</section>
+        <targetplatform name="joomla" version="2.5" />
+    </update>
+</updates>
